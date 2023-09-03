@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : #"About"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Ranjula Bali Swain"
 description              : &description "Professor"
