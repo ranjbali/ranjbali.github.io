@@ -13,11 +13,11 @@ redirect_from:
 
 * Bali Swain, R. and Kambhampati, U. (eds) [The Informal Sector and the Environment](https://www.routledge.com/The-Informal-Sector-and-the-Environment/Swain-Kambhampati/p/book/9781032122663), Taylor and Francis Books: Routledge, London, 2022. [News](https://www.hhs.se/en/about-us/news/csr/2022/new-book-on-the-informal-sector-and-the-environment-by-csrs-ranjula-bali-swain-and-university-of-readings-uma-kambhampati/)
 
-* Bali Swain, R. and Sweet, S. (eds) [Sustainable Consumption and Production (Volume I): Development and Challenges](https://www.palgrave.com/gp/book/9783030563707), Palgrave Macmillan, London, 2021. 
+* Bali Swain, R. and Sweet, S. (eds) [Sustainable Consumption and Production (Volume I): Development and Challenges](https://www.palgrave.com/gp/book/9783030563707), Palgrave Macmillan, London, 2021. [EU Green Week Book launch](https://www.hhs.se/en/research/centers/csr/news/sustainable-consumption-and-production-circular-economy--development---eu-green-week-2021-partner-event/)
      
-* Bali Swain, R. and Sweet, S. (eds) [Sustainable Consumption and Production (Volume II): Beyond Circular Economy](https://www.palgrave.com/gp/book/9783030552848), Springer/Palgrave Macmillan, London, 2020. 
+* Bali Swain, R. and Sweet, S. (eds) [Sustainable Consumption and Production (Volume II): Beyond Circular Economy](https://www.palgrave.com/gp/book/9783030552848), Springer/Palgrave Macmillan, London, 2020. [News](https://www.hhs.se/en/research/centers/csr/news/new-book-published-by-ranjula-bali-swain-and-susanne-sweet-on-sustainable-consumption-and-production-volume-ii-circular-economy-and-beyond/)
 
-* Bali Swain, R. (ed) [Environmental Challenges in the Baltic Region](https://www.palgrave.com/gp/book/9783319560069), Palgrave Macmillan, Springer London, 2017. 
+* Bali Swain, R. (ed) [Environmental Challenges in the Baltic Region](https://www.palgrave.com/gp/book/9783319560069), Palgrave Macmillan, Springer London, 2017. [News](https://www.hhs.se/en/about-us/news/sir/2017/new-book-from-misumssirs-ranjula-bali-swain/)
 
 * Bali Swain, R. [The Microfinance Impact](https://www.routledge.com/The-Microfinance-Impact/Swain/p/book/9781138808379), Taylor and Francis Books: Routledge, London and New York, 2012. 
 

@@ -17,4 +17,6 @@ Ranjula Bali Swain is Research Director at [Center for Sustainability Research (
 
 * New Book:[Informal Sector and the Environment](https://www.hhs.se/en/about-us/news/csr/2022/new-book-on-the-informal-sector-and-the-environment-by-csrs-ranjula-bali-swain-and-university-of-readings-uma-kambhampati/) 
 
+* Moderating [Stockholm+50: Linking the E, S & G in Sustainable Finance](https://www.hhs.se/en/about-us/calendar/sse/2022/stockholm-50/) event
+
 * Past News and Events
