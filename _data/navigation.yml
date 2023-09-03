@@ -1,7 +1,7 @@
 # main links links
 main:
-#- title: "About"
-#  url: /
+- title: "About"
+  url: //
 
   - title: "Publications"
     url: /publications/
@@ -9,5 +9,3 @@ main:
   - title: "Books"
     url: /talks/    
   
-  - title: "CV"
-    url: /cv/
