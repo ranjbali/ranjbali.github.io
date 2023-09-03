@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : #"Ranjula Bali Swain"
+title                    : "About"
 title_separator          : "-"
-name                     : &name "Ranjula"
-description              : #&description "personal description"
+name                     : &name "Ranjula Bali Swain"
+description              : &description "Professor"
 url                      : https://ranjbali.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ranjbali/ranjbali.github.io"
