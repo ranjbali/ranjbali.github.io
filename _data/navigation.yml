@@ -9,5 +9,5 @@ main:
   - title: "Books"
     url: /books/    
   
-  - title: "Test"
-    url: /test/
+  - title: "Past Events"
+    url: /pastevents/
