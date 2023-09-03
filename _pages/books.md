@@ -23,5 +23,7 @@ redirect_from:
 
 * Swain, A., Bali Swain, R., Themner, A. and Krampe, F. [Climate Change, Natural Resource Governance and Conflict Prevention in Africa: A Scoping Study of the Zambezi River](https://uu.diva-portal.org/smash/get/diva2:419221/FULLTEXT01.pdf), Global Crisis Solutions, Pretoria, South Africa, 2011.
 
+* Bali Swain, R. and E. Liljefrost (ed) [The Democratisation of Finance: Future Directions for Microfinance](https://www.amazon.com/Democratisation-Finance-Directions-Microfinance-utveckling/dp/9197470597), Utsikt mot utveckling 25, Collegium for Development Studies, Uppsala University, 2005.
+
 * Bali Swain, R. Demand, [Segmentation and Rationing in the Rural Credit Markets of Puri](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A169655&dswid=-6334), Economic Studies 54, Department of Economics, Uppsala University, 2001.
 
