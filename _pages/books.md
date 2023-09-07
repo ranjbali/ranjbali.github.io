@@ -11,7 +11,9 @@ redirect_from:
 
 * Bali Swain, R. and Min, Y. (eds) [Interlinkages between the Sustainable Development Goals](https://www.e-elgar.com/shop/gbp/interlinkages-between-the-sustainable-development-goals-9781803924939.html),Progressing the Sustainable Development Goals series, Edward Elgar, UK, 2023.  
 
-* ![The Informal Sector and the Environment](../images/book_informal.png) {width=200 height=300} Bali Swain, R. and Kambhampati, U. (eds) [The Informal Sector and the Environment](https://www.routledge.com/The-Informal-Sector-and-the-Environment/Swain-Kambhampati/p/book/9781032122663), Taylor and Francis Books: Routledge, London, 2022. [News](https://www.hhs.se/en/about-us/news/csr/2022/new-book-on-the-informal-sector-and-the-environment-by-csrs-ranjula-bali-swain-and-university-of-readings-uma-kambhampati/)
+![The Informal Sector and the Environment](../images/book_informal.png) {width=200 height=300} 
+
+* Bali Swain, R. and Kambhampati, U. (eds) [The Informal Sector and the Environment](https://www.routledge.com/The-Informal-Sector-and-the-Environment/Swain-Kambhampati/p/book/9781032122663), Taylor and Francis Books: Routledge, London, 2022. [News](https://www.hhs.se/en/about-us/news/csr/2022/new-book-on-the-informal-sector-and-the-environment-by-csrs-ranjula-bali-swain-and-university-of-readings-uma-kambhampati/)
 
 * Bali Swain, R. and Sweet, S. (eds) [Sustainable Consumption and Production (Volume I): Development and Challenges](https://www.palgrave.com/gp/book/9783030563707), Palgrave Macmillan, London, 2021. [EU Green Week Book launch](https://www.hhs.se/en/research/centers/csr/news/sustainable-consumption-and-production-circular-economy--development---eu-green-week-2021-partner-event/)
      
