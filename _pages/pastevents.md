@@ -7,8 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Selected 
-======
+## Selected 
 
 * Bali Swain, R. [Sustainable Development Goals: A Continuum of the global development paradigm](https://akzente.giz.de/en/simplifying-sdgs), Akzente, German Development Agency (GIZ), 2023. Printed in English and [German](https://akzente.giz.de/de/die-ziele-vereinfachen)
 
