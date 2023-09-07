@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-Journals
+## Journals
 ======
 * Karimu, A. and Bali Swain, R. [Implication of electricity taxes and levies on SDGs in the European Union](https://doi.org/10.1016/j.enpol.2023.113553), Energy Policy, Volume 177, 2023, 113553, ISSN 0301-4215
 
@@ -82,7 +82,7 @@ Also published as:  Bali Swain, R.  (2010). Financial Services for Low-income Ho
 * Bali Swain, R.  [Credit Rationing in Rural India](https://www.semanticscholar.org/paper/Credit-Rationing-in-Rural-India-Swain/cf8b0ab36b947775d764aad8a7032a68bcc6e434), Journal of Economic Development, Vol. 27 (2), pp. 1 - 20, 2002. 
 
 
-Book Chapters
+## Book Chapters
 ======
 * Bali Swain, R. and Min, Y. 2023. Interlinkages and Interactions among the Sustainable Development Goals. In: Bali Swain, R. and Min, Y. (eds) Interlinkages between the Sustainable Development Goals, Progressing the Sustainable Development Goals series, Edward Elgar, UK, October 2023.
 
