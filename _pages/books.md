@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+  
   <img src="../images/book_interlinkages.png"  width="10%" height="10%"> 
 
 * Bali Swain, R. and Min, Y. (eds) [Interlinkages between the Sustainable Development Goals](https://www.e-elgar.com/shop/gbp/interlinkages-between-the-sustainable-development-goals-9781803924939.html),Progressing the Sustainable Development Goals series, Edward Elgar, UK, 2023.  
