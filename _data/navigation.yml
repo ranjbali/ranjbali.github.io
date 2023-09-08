@@ -8,6 +8,9 @@ main:
 
   - title: "Books"
     url: /books/    
+
+  - title: "Other writings"
+    url: /other_writings/
   
   - title: "Past Events and Reports"
     url: /pastevents/
