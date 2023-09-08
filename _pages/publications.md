@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-## Journals Articles
+## Journal Publications
 
 * Karimu, A. and Bali Swain, R. [Implication of electricity taxes and levies on SDGs in the European Union](https://doi.org/10.1016/j.enpol.2023.113553), Energy Policy, Volume 177, 2023, 113553, ISSN 0301-4215
 
@@ -98,6 +98,10 @@ Also published as:  Bali Swain, R.  (2010). Financial Services for Low-income Ho
 * Gråd, E. Rapanos, T. Bali Swain, R. Ranganathan, S. Nudges, networks and social preferences.
 
 * Zhou, X., Moinuddin, M. and R. Bali Swain, Streamlining SDG indicators for effective monitoring: A strategic approach to key indicators.
+
+* Reksten, N. and Bali Swain, R. Stakeholder Groups and Firms' Corporate Sustainability Decisions
+
+* Sepahvand, M., Shahbazian, R. and Bali Swain, R. Does Revolution change Risk Attitudes? Evidence from Burkina Faso.
 
 ## Book Chapters
 
