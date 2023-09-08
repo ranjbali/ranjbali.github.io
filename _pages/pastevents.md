@@ -11,20 +11,10 @@ author_profile: true
 
 * [Everything everywhere all at once: Sustainable Development Goals and interlinkages](https://ires.ubc.ca/visiting-talk-everything-everywhere-all-at-once-sustainable-development-goals-and-interlinkages/), Visiting talk, University of British Columbia, Vancouver, Canada, 13 June 2023.
 
-* Disrupting Informal Sector Systems, Global Fashion Summit: Ambition to Action, Copenhagen, Denmark, 27-28 June 2023. 
+* [Disrupting Informal Sector Systems](../files/globalfashionsummit.pdf), Global Fashion Summit: Ambition to Action, Copenhagen, Denmark, 27-28 June 2023. 
 
-* Everything Everywhere All At Once: Sustainable Development Goals And  Interlinkages Sustainable Development Talks, University College Dublin, Dublin, Ireland, 26
-  April 2023. 
+* [Everything Everywhere All At Once: Sustainable Development Goals And  Interlinkages](../files/ucd_poster.pdf) Sustainable Development Talks, University College Dublin, Dublin, Ireland, 26 April 2023. 
 
-* Circular Economy and Global Supply Chains: the case of Swedish brands and Indian supply chains, International Workshop on Circular Economy Implementation in Global 
-  Supply Chains, Jawaharlal Nehru University (JNU), New Delhi, India, 3 April 2023. Co-organised in collaboration with CSR, Stockholm School of Economics, CITD-CIPOD, JNU and Indian Institute of Technology, Mumbai.
-
-* Interlinkages Between Sustainable Development Goals, CITD-CIPOD Joint Research Seminar on Sustainable Development Goals and the Circular Economy, SIS II, Jawaharlal   
-  Nehru University (JNU), New Delhi, India, 3 April 2023.
-
-* Modeling Interlinkages between Sustainable Development Goals: Predicaments and Strategies, Invited Seminar at the Institute of Global Environmental Strategies, 26th   
-  July 2022, Kanagawa, Japan.
-	
 * [Can Multidimensional Poverty Trends Leave No One Behind by 2030?”, panel discussion](https://www.sh.se/english/sodertorn-university/news/startpage/2022-04-22-sodertorn-universitys-participation-in-the-world-academic-forum-17---20-may-2022), World Academic Forum, Stockholm Summit, 18 May 2022.
 
 * [Pleanary Speaker, International Sustainable Development Research Society (ISDRS) Conference](https://2021.isdrsconferences.org/keynote-speakers/), 2021, 13-15 July 2021.
@@ -63,23 +53,3 @@ author_profile: true
 * [Talk on The Sustainable Development Conundrum?, Critical perspectives in sustainability research: The Sustainable Development Goals](https://www.kth.se/en/om/miljo-hallbar-utveckling/event/arkiv/2016/stockholm-phd-student-dialogue-on-sustainability-10-november-1.673472), 10 November 2016.
 
 * [Sustainable development goals in conflict, interview with Bali Swain](https://www.hhs.se/en/about-us/news/news-from-misum/2016/sdgs-in-conflict/), 13 October 2016.
-
-* Sumpter, D.,  Ranganathan, S., Bali Swain, R. [Single SDG targets are impractical and unrealistic](http://www.scidev.net/global/mdgs/opinion/sdg-impractical-unrealistic-governance.html). Invited opinion piece on Science’s development portal scidev.net: 2015. 
-
-* Swain, A., Bali Swain, R., Themnér, A. & Krampe, F. Zambezi River Basin: A Risk Zone of Climate Change and Economic Vulnerability, New Routes, Vol. 17 (3), pp. 17-21,  2012.
-
-* Bali Swain, R. [Mikrofinansiering – ineffektivt botemedel eller universalmedicin?](https://www.iffs.se/media/1426/framtider_nr1_2010.pdf), Framtider, No. 1,  2010.
-
-* Bali Swain, R. & Wallentin, F.Y. [Women Through Microfinance: Evidence from Self Help Groups in India](http://www.ipc-undp.org/pub/IPCPovertyInFocus13.pdf), Poverty in Focus, No. 13, pp. 20-22, International Poverty Centre, 2008.  
-
-* Bali Swain, R. [Impacting Women Through Microfinance](http://rfd.org.ec/biblioteca/pdfs/LP-033.pdf), Dialogue, Appui au Developpement Autonome, No. 37, 2007.
-
-* Bali Swain, R. [Is Microfinance a Catalyst for Development at a Macroeconomic Level in Developing Countries](https://www.cairn.info/revue-finance-et-bien-commun-2006-2-page-83.htm), Finance for Common Good, Observatoire de la Finance, Switzerland,  2006.
-
-* Bali Swain, R. [Is Microfinance a Good Poverty Alleviation Strategy? - Evidence from Impact Assessment](https://cdn.sida.se/publications/files/sida4289en-evidence-from-impact-assessment.pdf), Making Markets Work for the Poor Series, Sida, Stockholm, 2004. 
-
-* Bali Swain, R. Participation: Challenges for Policy and Practice in Approaches to Poverty Reduction and Democratisation, in Developing Participation: Challenges for Policy and Practice in Approaches to Poverty Reduction and Democratisation, Utsikt mot utveckling 22, Uppsala University, 2004. 
-
-* Andrehn, I., Christensen, J., Finnegan, G. & Bali Swain, R. [Steps Towards Impact Assessment of SED Interventions on Employment](https://www.ilo.org/wcmsp5/groups/public/@ed_emp/@emp_policy/@invest/documents/instructionalmaterial/wcms_asist_8318.pdf), SEED, International Labour Organisation, 2002.
-
-* Bali Swain, R. Credit Programmes in Eritrea, Afraca Newsletter, No. 24, 1998.  
