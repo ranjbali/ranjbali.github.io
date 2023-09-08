@@ -15,7 +15,9 @@ Ranjula Bali Swain is Research Director at [Center for Sustainability Research, 
 
 * [Co-creation workshop](https://www.hhs.se/en/research/centers/csr/news/co-creation-workshop-at-nordev/) at NorDev Conference 2023, 22 August 2023.
 
+* [Everything everywhere all at once: Sustainable Development Goals and interlinkages](https://ires.ubc.ca/visiting-talk-everything-everywhere-all-at-once-sustainable-development-goals-and-interlinkages/), Visiting talk, University of British Columbia, Vancouver, Canada, 13 June 2023.
+
 * New Book:[Informal Sector and the Environment](https://www.hhs.se/en/about-us/news/csr/2022/new-book-on-the-informal-sector-and-the-environment-by-csrs-ranjula-bali-swain-and-university-of-readings-uma-kambhampati/), 2022.
 
-* Moderating [Stockholm+50: Linking the E, S & G in Sustainable Finance](https://www.hhs.se/en/about-us/calendar/sse/2022/stockholm-50/) event, Stockholm School of Economics, 28 April 2022.
+
 

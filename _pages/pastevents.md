@@ -9,13 +9,13 @@ author_profile: true
 
 ## Selected 
 
-* [Everything everywhere all at once: Sustainable Development Goals and interlinkages](https://ires.ubc.ca/visiting-talk-everything-everywhere-all-at-once-sustainable-development-goals-and-interlinkages/), Visiting talk, University of British Columbia, Vancouver, Canada, 13 June 2023.
-
 * [Disrupting Informal Sector Systems](../files/globalfashionsummit.pdf), Global Fashion Summit: Ambition to Action, Copenhagen, Denmark, 27-28 June 2023. 
 
 * [Everything Everywhere All At Once: Sustainable Development Goals And  Interlinkages](../files/ucd_poster.pdf) Sustainable Development Talks, University College Dublin, Dublin, Ireland, 26 April 2023. 
 
 * [Can Multidimensional Poverty Trends Leave No One Behind by 2030?”, panel discussion](https://www.sh.se/english/sodertorn-university/news/startpage/2022-04-22-sodertorn-universitys-participation-in-the-world-academic-forum-17---20-may-2022), World Academic Forum, Stockholm Summit, 18 May 2022.
+
+* Moderating [Stockholm+50: Linking the E, S & G in Sustainable Finance](https://www.hhs.se/en/about-us/calendar/sse/2022/stockholm-50/) event, Stockholm School of Economics, 28 April 2022.
 
 * [Pleanary Speaker, International Sustainable Development Research Society (ISDRS) Conference](https://2021.isdrsconferences.org/keynote-speakers/), 2021, 13-15 July 2021.
 
