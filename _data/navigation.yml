@@ -9,6 +9,9 @@ main:
   - title: "Books"
     url: /books/    
 
+  - title: "Working papers"
+    url: /working_papers/ 
+
   - title: "Other writings"
     url: /other_writings/
   
