@@ -48,7 +48,7 @@ author_profile: true
 
 * Kar, A. & Bali Swain, R. [Interest Rates and Financial Performance of Microfinance Institutions: Recent Global Evidence](https://doi.org/10.1057/ejdr.2013.33), European Journal of Development Research, Vol. 26(1), pp. 87-106, 2014. 
 
-* Bali Swain, R. & Floro, M. Microfinance, Vulnerability and Risk in Low Income Households, International Review of Applied Economics, Vol. 28 (5), pp. 539-561, 2014. https://doi.org/10.1080/02692171.2014.918937  
+* Bali Swain, R. & Floro, M. Microfinance, [Vulnerability and Risk in Low Income Households](https://doi.org/10.1080/02692171.2014.918937), International Review of Applied Economics, Vol. 28 (5), pp. 539-561, 2014.  
 
 * Bali Swain, R. & Varghese, A. [Evaluating the Impact of Training in Self Help Groups in India](https://doi.org/10.1057/ejdr.2014.17), European Journal of Development Research, Vol. 26 (5), pp. 870-885, 2014. 
 
