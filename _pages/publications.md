@@ -99,7 +99,13 @@ Also published as:  Bali Swain, R.  (2010). Financial Services for Low-income Ho
 
 * Zhou, X., Moinuddin, M. and R. Bali Swain, Streamlining SDG indicators for effective monitoring: A strategic approach to key indicators.
 
-* Reksten, N. and Bali Swain, R. Stakeholder Groups and Firms' Corporate Sustainability Decisions
+* Bali Swain, R., Wallentin, F.Y., and X. Lin, COVID-19 Pandemic Waves: Identification and Interpretation of Global Data.
+
+* Reksten, N. and Bali Swain, R. Stakeholder Groups and Firms' Corporate Sustainability Decisions.
+
+* Bali Swain, R. and Nsabimana, A. Financial inclusion and food security among rural households in Rwanda.
+
+* Bali Swain, R., Henrysson, A. Swain, and Fuso Nerini, F. Sustainable Development in the wake of COVID-19.
 
 * Sepahvand, M., Shahbazian, R. and Bali Swain, R. Does Revolution change Risk Attitudes? Evidence from Burkina Faso.
 
