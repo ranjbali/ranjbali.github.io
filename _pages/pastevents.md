@@ -25,9 +25,9 @@ author_profile: true
 
 * Organiser, [Joint International Workshop on Informal Economy and the Economy](https://www.hhs.se/en/research/centers/csr/news/international-workshop-informal-economy-and-the-economy/), Center for Sustainability Research, SIR, Stockholm School of Economics and University of Reading, UK, 21 March 2021.
 
-* [Invited Speaker, Sustainable Development Goals, XLIII GLOBAL CHANGE FORUM, MIT Joint Program on the Science and Policy of Global Change, MIT](https://globalchange.mit.edu/system/files/media/agendas/GCF43-Agenda-Bios-2020Oct.pdf), USA, 27 October 2020.
+* [A critique of Sustainable Development Goals, XLIII GLOBAL CHANGE FORUM, MIT Joint Program on the Science and Policy of Global Change, MIT](https://globalchange.mit.edu/system/files/media/agendas/GCF43-Agenda-Bios-2020Oct.pdf), USA, 27 October 2020.
 
-* Invited Speaker, Capturing Sustainable Development Goals Interlinkages, United Nations’ Statistical Division’s Eighth Meeting of the Inter-Agency and Expert Group on the Sustainable Development Goal Indicators, Stockholm, Sweden, Nov 5-8, 2018. 
+* Capturing Sustainable Development Goals Interlinkages, United Nations’ Statistical Division’s Eighth Meeting of the Inter-Agency and Expert Group on the Sustainable Development Goal Indicators, Stockholm, Sweden, Nov 5-8, 2018. 
 
 * [UN Agenda 2030: A utopian development plan for the world](https://www.hhs.se/en/about-us/news/sse/2019/un-agenda-2030-a-utopian-development-plan-for-the-world/), published interview, 23 October 2019.
 
