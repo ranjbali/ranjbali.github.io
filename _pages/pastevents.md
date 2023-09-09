@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Past Events and Reports"
+title: "Presentations"
 permalink: /pastevents/
 author_profile: true
 ---
