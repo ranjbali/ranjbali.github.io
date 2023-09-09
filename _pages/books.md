@@ -13,12 +13,10 @@ redirect_from:
 * <img src="../images/book_interlinkages.png"  width="15%" height="15%"> 
 
 * Bali Swain, R. and Min, Y. (eds) [Interlinkages between the Sustainable Development Goals](https://www.e-elgar.com/shop/gbp/interlinkages-between-the-sustainable-development-goals-9781803924939.html),Progressing the Sustainable Development Goals series, Edward Elgar, UK, 2023.  
-______________________________________________________________________
 
   <img src="../images/book_informal.png"  width="15%" height="15%"> 
 
 * Bali Swain, R. and Kambhampati, U. (eds) [The Informal Sector and the Environment](https://www.routledge.com/The-Informal-Sector-and-the-Environment/Swain-Kambhampati/p/book/9781032122663), Taylor and Francis Books: Routledge, London, 2022. [News](https://www.hhs.se/en/about-us/news/csr/2022/new-book-on-the-informal-sector-and-the-environment-by-csrs-ranjula-bali-swain-and-university-of-readings-uma-kambhampati/)
-______________________________________________________________________
 
   <img src="../images/book_scp_1.png"  width="15%" height="15%"> 
 
