@@ -10,7 +10,7 @@ author_profile: true
 
 ## Journal Publications
 
-* Karimu, A. and Bali Swain, R. [Implication of electricity taxes and levies on SDGs in the European Union](https://doi.org/10.1016/j.enpol.2023.113553), Energy Policy, Volume 177, 2023, 113553, ISSN 0301-4215
+* Karimu, A. and Bali Swain, R. [Implication of electricity taxes and levies on SDGs in the European Union](https://doi.org/10.1016/j.enpol.2023.113553), Energy Policy, Volume 177, 2023.
 
 * Bali Swain, R. and Karimu, A. and Gråd, E. [Sustainable Development, Renewable Energy Transformation and Employment Impact in the EU](https://www.tandfonline.com/doi/full/10.1080/13504509.2022.2078902), International Journal of Sustainable Development & World Ecology, 2022. 
 
