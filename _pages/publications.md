@@ -50,7 +50,7 @@ Journals
 
 * Kar, A. & Bali Swain, R. [Interest Rates and Financial Performance of Microfinance Institutions: Recent Global Evidence](https://doi.org/10.1057/ejdr.2013.33), European Journal of Development Research, Vol. 26(1), pp. 87-106, 2014. 
 
-* Bali Swain, R. & Floro, M. Microfinance, Vulnerability and Risk in Low Income Households, International Review of Applied Economics, Vol. 28 (5), pp. 539-561, 2014. https://doi.org/10.1080/02692171.2014.918937  
+* Bali Swain, R. & Floro, M. Microfinance, [Vulnerability and Risk in Low Income Households](https://doi.org/10.1080/02692171.2014.918937), International Review of Applied Economics, Vol. 28 (5), pp. 539-561, 2014.  
 
 * Bali Swain, R. & Varghese, A. [Evaluating the Impact of Training in Self Help Groups in India](https://doi.org/10.1057/ejdr.2014.17), European Journal of Development Research, Vol. 26 (5), pp. 870-885, 2014. 
 
@@ -83,6 +83,33 @@ Also published as:  Bali Swain, R.  (2010). Financial Services for Low-income Ho
 
 * Bali Swain, R.  [Credit Rationing in Rural India](https://www.semanticscholar.org/paper/Credit-Rationing-in-Rural-India-Swain/cf8b0ab36b947775d764aad8a7032a68bcc6e434), Journal of Economic Development, Vol. 27 (2), pp. 1 - 20, 2002. 
 
+## Recent Working Papers
+  
+* Shresta, R., Bali Swain, R. and Stromberg, P.M. Global Energy Consumption and Economic Growth.
+
+* Lin, X. and Bali Swain, R. Performance of Negatively Screened Sustainable Investments during the COVID-19.
+
+* Lin, X. and Bali Swain, R. Sustainable Investments and Investor-Surplus During Crisis.
+
+* Kar, A. and Bali Swain, R. Does Financial Inclusion Impact Energy Poverty? 
+
+* Kar, A. and Bali Swain, R. Financial inclusion and energy poverty: A panel data analysis of the Sub-Saharan African countries.
+
+* Stromberg, P.M and Bali Swain, R. Ground-up environmental information systems for effective transparency: an economic perspective.
+
+* Gråd, E. Rapanos, T. Bali Swain, R. Ranganathan, S. Nudges, networks and social preferences.
+
+* Zhou, X., Moinuddin, M. and R. Bali Swain, Streamlining SDG indicators for effective monitoring: A strategic approach to key indicators.
+
+* Bali Swain, R., Wallentin, F.Y., and X. Lin, COVID-19 Pandemic Waves: Identification and Interpretation of Global Data.
+
+* Reksten, N. and Bali Swain, R. Stakeholder Groups and Firms' Corporate Sustainability Decisions.
+
+* Bali Swain, R. and Nsabimana, A. Financial inclusion and food security among rural households in Rwanda.
+
+* Bali Swain, R., Henrysson, A. Swain, and Fuso Nerini, F. Sustainable Development in the wake of COVID-19.
+
+* Sepahvand, M., Shahbazian, R. and Bali Swain, R. Does Revolution change Risk Attitudes? Evidence from Burkina Faso.
 
 Book Chapters
 ======
@@ -120,3 +147,39 @@ Also published as, Bali Swain, R. 2006. Microfinance and Women Empowerment, Sida
 * Bali Swain, R. 2004. Contemporary Macroeconomics Issues in Developing Economies, in Contemporary Issues in Macroeconomic Management, Editor B.N. Ghosh, Wisdom House, Leeds, England, 2004. 
 
 * Bali Swain, R. 1997. A critical report on the econometric analysis of the price of food grains in India, in Economic Development and Agriculture, Editors Amit Bhaduri and Rune Skarstein, Edward Elgar Publishing limited, 1997. 
+
+## Other Publications (Selected) 
+
+* Bali Swain, R. [Sustainable Development Goals: A Continuum of the global development paradigm](https://akzente.giz.de/en/simplifying-sdgs), Akzente, German Development Agency (GIZ), 2023. Printed in English and [German](https://akzente.giz.de/de/die-ziele-vereinfachen)
+
+* United Nations Office for Risk Reduction (UNDRR). 2022. [Global Assessment Report on Disaster Risk Reduction (GAR)](https://www.undrr.org/gar/gar2022-our-world-risk-gar#container-downloads) (Bali Swain, R. contributing expert), United Nations, Geneva.
+
+* Bali Swain, R. and A. Mitra. [What needs to be done to make the informal sector vibrant](https://counterview.org/2021/04/29/what-needs-to-be-done-to-make-the-informal-sector-vibrant/), Counterview.org, 4 May 2021.
+
+* United Nations Statistics Division DESA. 2020. [Second Report of the Interlinkages workstream](https://unstats.un.org/unsd/statcom/51st-session/documents/BG-Item3a-Interlinkages-Workstream-E.pdf) (Bali Swain, R. contributing author and lead author for Chapter 5). DESA, United Nations, New York.
+
+* [UN Agenda 2030: A utopian development plan for the world](https://www.hhs.se/en/about-us/news/sse/2019/un-agenda-2030-a-utopian-development-plan-for-the-world/), published interview, 23 October 2019.
+
+* [2018 Nobel Laureates, Nordhaus and Romer's Research](https://www.hhs.se/en/about-us/news/news-from-misum/2018/two-misum-voices-on-todays-announcement-of-the-laureates-of-sveriges-riksbanks-prize-in-economic-sciences-in-memory-of-alfred-nobel/) 
+
+* [Sustainable development goals in conflict, interview with Bali Swain](https://www.hhs.se/en/about-us/news/news-from-misum/2016/sdgs-in-conflict/), 13 October 2016.
+
+* Sumpter, D.,  Ranganathan, S., Bali Swain, R. [Single SDG targets are impractical and unrealistic](http://www.scidev.net/global/mdgs/opinion/sdg-impractical-unrealistic-governance.html). Invited opinion piece on Science’s development portal scidev.net: 2015. 
+
+* Swain, A., Bali Swain, R., Themnér, A. & Krampe, F. [Zambezi River Basin: A Risk Zone of Climate Change and Economic Vulnerability](https://globalarkivet.se/6230), New Routes, Vol. 17 (3), pp. 17-21,  2012.
+
+* Bali Swain, R. [Mikrofinansiering – ineffektivt botemedel eller universalmedicin?](https://www.iffs.se/media/1426/framtider_nr1_2010.pdf), Framtider, No. 1,  2010.
+
+* Bali Swain, R. & Wallentin, F.Y. [Women Through Microfinance: Evidence from Self Help Groups in India](http://www.ipc-undp.org/pub/IPCPovertyInFocus13.pdf), Poverty in Focus, No. 13, pp. 20-22, International Poverty Centre, 2008.  
+
+* Bali Swain, R. [Impacting Women Through Microfinance](http://rfd.org.ec/biblioteca/pdfs/LP-033.pdf), Dialogue, Appui au Developpement Autonome, No. 37, 2007.
+
+* Bali Swain, R. [Is Microfinance a Catalyst for Development at a Macroeconomic Level in Developing Countries](https://www.cairn.info/revue-finance-et-bien-commun-2006-2-page-83.htm), Finance for Common Good, Observatoire de la Finance, Switzerland,  2006.
+
+* Bali Swain, R. [Is Microfinance a Good Poverty Alleviation Strategy? - Evidence from Impact Assessment](https://cdn.sida.se/publications/files/sida4289en-evidence-from-impact-assessment.pdf), Making Markets Work for the Poor Series, Sida, Stockholm, 2004. 
+
+* Bali Swain, R. Participation: Challenges for Policy and Practice in Approaches to Poverty Reduction and Democratisation, in Developing Participation: Challenges for Policy and Practice in Approaches to Poverty Reduction and Democratisation, Utsikt mot utveckling 22, Uppsala University, 2004. 
+
+* Andrehn, I., Christensen, J., Finnegan, G. & Bali Swain, R. [Steps Towards Impact Assessment of SED Interventions on Employment](https://www.ilo.org/wcmsp5/groups/public/@ed_emp/@emp_policy/@invest/documents/instructionalmaterial/wcms_asist_8318.pdf), SEED, International Labour Organisation, 2002.
+
+* Bali Swain, R. Credit Programmes in Eritrea, Afraca Newsletter, No. 24, 1998. 
