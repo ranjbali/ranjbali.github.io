@@ -10,7 +10,7 @@ author_profile: true
 
 Journals
 ======
-* Kar, A. and Bali Swain, R. Does financial inclusion improve energy accessibility in Sub-Saharan Africa?, accepted in Applied Economics.
+* Kar, A. and Bali Swain, R. [Does financial inclusion improve energy accessibility in Sub-Saharan Africa?](https://www.tandfonline.com/doi/full/10.1080/00036846.2023.2270227), Applied Economics, DOI: 10.1080/00036846.2023.2270227
 
 * Karimu, A. and Bali Swain, R. [Implication of electricity taxes and levies on SDGs in the European Union](https://doi.org/10.1016/j.enpol.2023.113553), Energy Policy, Volume 177, 2023, 113553, ISSN 0301-4215
 
