@@ -15,7 +15,7 @@ Ranjula Bali Swain is Research Director at [Center for Sustainability Research, 
 
 * Presentation on [AI and Machine Learning for monitoring Sustainable Development Goals](https://www.hhs.se/en/research/centers/csr/news/ranjula-bali-swain-speaks-on-monitoring-sustainable-development-goals-with-ai-and-machine-learning/) at UN’s 14th Inter-agency and Expert Group meeting on Sustainable Development Goal Indicators, on the 25th of October 2023, in Copenhagen, Denmark.
 
-* 
+* [International Workshop on the Sustainable Development Goals](https://www.hhs.se/en/research/centers/csr/news/sdg-workshop/) on 19-20 October 2023.
 
 * [High Level Political Forum 2023 Side event](https://www.hhs.se/en/research/centers/csr/news/high-level-political-forum-2023-reviving-the-decade-of-action-exploring-interlinkages-and-partnerships/)  Reviving the Decade of Action: exploring interlinkages and partnerships, at Permanent Mission of Sweden to the United Nations, New York, USA, 12 July 2023. [Event Summary](../files/HLPF 2023 Side Event Report.pdf)
 
