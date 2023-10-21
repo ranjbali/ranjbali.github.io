@@ -17,7 +17,7 @@ Ranjula Bali Swain is Research Director at [Center for Sustainability Research, 
 
 * [Everything everywhere all at once: Sustainable Development Goals and interlinkages](https://ires.ubc.ca/visiting-talk-everything-everywhere-all-at-once-sustainable-development-goals-and-interlinkages/), Visiting talk, University of British Columbia, Vancouver, Canada, 13 June 2023.
 
-* New Book:[Informal Sector and the Environment](https://www.hhs.se/en/about-us/news/csr/2022/new-book-on-the-informal-sector-and-the-environment-by-csrs-ranjula-bali-swain-and-university-of-readings-uma-kambhampati/), 2022.
+* New Book on [Informal Sector and the Environment](https://www.hhs.se/en/about-us/news/csr/2022/new-book-on-the-informal-sector-and-the-environment-by-csrs-ranjula-bali-swain-and-university-of-readings-uma-kambhampati/), 2022.
 
 
 
