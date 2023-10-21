@@ -13,6 +13,10 @@ Ranjula Bali Swain is Research Director at [Center for Sustainability Research, 
 ### News
 * My new Book on [Interlinkages between the Sustainable Development Goals](https://www.e-elgar.com/shop/gbp/interlinkages-between-the-sustainable-development-goals-9781803924939.html), is scheduled to be released at the [UN’s 14th Inter-agency and Expert Group meeting](https://unstats.un.org/sdgs/meetings/iaeg-sdgs-meeting-14/#foreword) on Sustainable Development Goal Indicators.[News](https://www.hhs.se/en/about-us/news/csr/2023/book-release-of-ranjula-bali-swain-and-yongyi-mins-new-book-at-uns-iaeg-meeting-in-copenhagen-on-25th-october-2023/)
 
+* Presentation on [AI and Machine Learning for monitoring Sustainable Development Goals](https://www.hhs.se/en/research/centers/csr/news/ranjula-bali-swain-speaks-on-monitoring-sustainable-development-goals-with-ai-and-machine-learning/) at UN’s 14th Inter-agency and Expert Group meeting on Sustainable Development Goal Indicators, on the 25th of October 2023, in Copenhagen, Denmark.
+
+* 
+
 * [High Level Political Forum 2023 Side event](https://www.hhs.se/en/research/centers/csr/news/high-level-political-forum-2023-reviving-the-decade-of-action-exploring-interlinkages-and-partnerships/)  Reviving the Decade of Action: exploring interlinkages and partnerships, at Permanent Mission of Sweden to the United Nations, New York, USA, 12 July 2023. [Event Summary](../files/HLPF 2023 Side Event Report.pdf)
 
 
