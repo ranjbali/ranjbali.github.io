@@ -8,9 +8,9 @@ author_profile: true
 {% include base_path %}
 
 ## Selected 
-* [High Level Political Forum 2023 Side event](https://www.hhs.se/en/research/centers/csr/news/high-level-political-forum-2023-reviving-the-decade-of-action-exploring-interlinkages-and-partnerships/)  Reviving the Decade of Action: exploring interlinkages and partnerships, at Permanent Mission of Sweden to the United Nations, New York, USA, 12 July 2023. [Event Summary](../files/HLPF 2023 Side Event Report.pdf)
+* [International Workshop on the Sustainable Development Goals](https://www.hhs.se/en/research/centers/csr/news/sdg-workshop/) on 19-20 October 2023. The objective of the workshop is to explore the SDG framework across: goals; targets; indicators; the 5 thematic areas of the SDGs (peace, people, planet, prosperity, partnerships); the 3 dimensions of sustainable development (economic, social, environment); and across various statistical frameworks.
 
-* Bali Swain, R. [Sustainable Development Goals: A Continuum of the global development paradigm](https://akzente.giz.de/en/simplifying-sdgs), Akzente, German Development Agency (GIZ), 2023. Printed in English and [German](https://akzente.giz.de/de/die-ziele-vereinfachen)
+* [High Level Political Forum 2023 Side event](https://www.hhs.se/en/research/centers/csr/news/high-level-political-forum-2023-reviving-the-decade-of-action-exploring-interlinkages-and-partnerships/)  Reviving the Decade of Action: exploring interlinkages and partnerships, at Permanent Mission of Sweden to the United Nations, New York, USA, 12 July 2023. [Event Summary](../files/HLPF 2023 Side Event Report.pdf)
 
 * [Co-creation workshop](https://www.hhs.se/en/research/centers/csr/news/co-creation-workshop-at-nordev/) at NorDev Conference 2023, 22 August 2023.
 
@@ -36,8 +36,6 @@ author_profile: true
 
 * [A critique of Sustainable Development Goals, XLIII GLOBAL CHANGE FORUM, MIT Joint Program on the Science and Policy of Global Change, MIT](https://globalchange.mit.edu/system/files/media/agendas/GCF43-Agenda-Bios-2020Oct.pdf), USA, 27 October 2020.
 
-* Capturing Sustainable Development Goals Interlinkages, United Nations’ Statistical Division’s Eighth Meeting of the Inter-Agency and Expert Group on the Sustainable Development Goal Indicators, Stockholm, Sweden, Nov 5-8, 2018. 
-
 * [UN Agenda 2030: A utopian development plan for the world](https://www.hhs.se/en/about-us/news/sse/2019/un-agenda-2030-a-utopian-development-plan-for-the-world/), published interview, 23 October 2019.
 
 * [De globala hållbarhetsmålen är utopiska och svåra att utvärdera, (In English, The global sustainability goals are utopian and difficult to evaluate)](https://www.hhs.se/en/about-us/news/news-from-misum/2019/de-globala-malen-ar-utopiska-och-svara-att-utvardera-misums-ranjula-bali-swain-i-sveriges-radios-ekot/), interview to Swedish Radio, Sveriges Radios Ekot, 24 September, 2019.
@@ -45,6 +43,8 @@ author_profile: true
 * Can Europe return to low electricity prices again?, CEPS Ideas Lab, Brussels, Belgium, 21-22 February 2019. 
 
 * Research Leader, [Innovating Markets Platform](https://www.hhs.se/en/research/institutes/misum-startpage/misum-research/past-programs/misum-research/research-platforms-and-projects2/researchers-in-this-platform/), Misum, Stockholm School of Economics. [Projects](https://www.hhs.se/en/research/institutes/misum-startpage/misum-research/past-programs/misum-research/research-platforms-and-projects2/) [Report 2019](https://www.hhs.se/contentassets/ab4c8a4707124f5792098f449f4fe8d9/misum-2019-annual-report.pdf) [2018](https://www.hhs.se/contentassets/0c526b9d876b49679eb5e0f2853046ae/this-is-misum_180904.pdf) [2017](https://www.hhs.se/contentassets/41a85b8d55694dea925ff6f24ea2a87c/18139_misum-2017_mars_28.pdf) [2016](https://www.hhs.se/contentassets/e55eb9f8fc44442c888ec2870624e93f/misum-ar-2016.pdf) [2015](https://www.hhs.se/contentassets/1d3bd7dba6744c4fa79a3d0f8e805164/misum-annual-report-2015.pdf)
+
+* Capturing Sustainable Development Goals Interlinkages, United Nations’ Statistical Division’s Eighth Meeting of the Inter-Agency and Expert Group on the Sustainable Development Goal Indicators, Stockholm, Sweden, Nov 5-8, 2018. 
 
 * [2018 Nobel Laureates, Nordhaus and Romer's Research](https://www.hhs.se/en/about-us/news/news-from-misum/2018/two-misum-voices-on-todays-announcement-of-the-laureates-of-sveriges-riksbanks-prize-in-economic-sciences-in-memory-of-alfred-nobel/) 
 
