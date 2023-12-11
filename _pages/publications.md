@@ -8,9 +8,11 @@ author_profile: true
 {% include base_path %}
 
 
-## Journal Publications
+Journals
+======
+* Kar, A. and Bali Swain, R. [Does financial inclusion improve energy accessibility in Sub-Saharan Africa?](https://www.tandfonline.com/doi/full/10.1080/00036846.2023.2270227), Applied Economics, DOI: 10.1080/00036846.2023.2270227
 
-* Karimu, A. and Bali Swain, R. [Implication of electricity taxes and levies on SDGs in the European Union](https://doi.org/10.1016/j.enpol.2023.113553), Energy Policy, Volume 177, 2023.
+* Karimu, A. and Bali Swain, R. [Implication of electricity taxes and levies on SDGs in the European Union](https://doi.org/10.1016/j.enpol.2023.113553), Energy Policy, Volume 177, 2023, 113553, ISSN 0301-4215
 
 * Bali Swain, R. and Karimu, A. and Gråd, E. [Sustainable Development, Renewable Energy Transformation and Employment Impact in the EU](https://www.tandfonline.com/doi/full/10.1080/13504509.2022.2078902), International Journal of Sustainable Development & World Ecology, 2022. 
 
@@ -109,8 +111,8 @@ Also published as:  Bali Swain, R.  (2010). Financial Services for Low-income Ho
 
 * Sepahvand, M., Shahbazian, R. and Bali Swain, R. Does Revolution change Risk Attitudes? Evidence from Burkina Faso.
 
-## Book Chapters
-
+Book Chapters
+======
 * Bali Swain, R. and Min, Y. 2023. Interlinkages and Interactions among the Sustainable Development Goals. In: Bali Swain, R. and Min, Y. (eds) Interlinkages between the Sustainable Development Goals, Progressing the Sustainable Development Goals series, Edward Elgar, UK, October 2023.
 
 * Bali Swain, R. and Kambhampati, U. 2022. Introduction. In: Bali Swain, R. and Kambhampati, U (eds) The Informal Sector and the Environment, pp. 1-15,Taylor and Francis Books: Routledge, London, 2022.
@@ -180,4 +182,4 @@ Also published as, Bali Swain, R. 2006. Microfinance and Women Empowerment, Sida
 
 * Andrehn, I., Christensen, J., Finnegan, G. & Bali Swain, R. [Steps Towards Impact Assessment of SED Interventions on Employment](https://www.ilo.org/wcmsp5/groups/public/@ed_emp/@emp_policy/@invest/documents/instructionalmaterial/wcms_asist_8318.pdf), SEED, International Labour Organisation, 2002.
 
-* Bali Swain, R. Credit Programmes in Eritrea, Afraca Newsletter, No. 24, 1998.  
+* Bali Swain, R. Credit Programmes in Eritrea, Afraca Newsletter, No. 24, 1998. 
