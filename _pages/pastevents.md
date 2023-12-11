@@ -10,17 +10,17 @@ author_profile: true
 ## Selected 
 * [High Level Political Forum 2023 Side event](https://www.hhs.se/en/research/centers/csr/news/high-level-political-forum-2023-reviving-the-decade-of-action-exploring-interlinkages-and-partnerships/)  Reviving the Decade of Action: exploring interlinkages and partnerships, at Permanent Mission of Sweden to the United Nations, New York, USA, 12 July 2023. [Event Summary](../files/HLPF 2023 Side Event Report.pdf)
 
+* Bali Swain, R. [Sustainable Development Goals: A Continuum of the global development paradigm](https://akzente.giz.de/en/simplifying-sdgs), Akzente, German Development Agency (GIZ), 2023. Printed in English and [German](https://akzente.giz.de/de/die-ziele-vereinfachen)
+
 * [Co-creation workshop](https://www.hhs.se/en/research/centers/csr/news/co-creation-workshop-at-nordev/) at NorDev Conference 2023, 22 August 2023.
 
 * [Everything everywhere all at once: Sustainable Development Goals and interlinkages](https://ires.ubc.ca/visiting-talk-everything-everywhere-all-at-once-sustainable-development-goals-and-interlinkages/), Visiting talk, University of British Columbia, Vancouver, Canada, 13 June 2023.
 
-* New Book:[Informal Sector and the Environment](https://www.hhs.se/en/about-us/news/csr/2022/new-book-on-the-informal-sector-and-the-environment-by-csrs-ranjula-bali-swain-and-university-of-readings-uma-kambhampati/), 2022.
-
-* New Book on [Informal Sector and the Environment](https://www.hhs.se/en/about-us/news/csr/2022/new-book-on-the-informal-sector-and-the-environment-by-csrs-ranjula-bali-swain-and-university-of-readings-uma-kambhampati/), 2022.
-
 * [Disrupting Informal Sector Systems](../files/globalfashionsummit.pdf), Global Fashion Summit: Ambition to Action, Copenhagen, Denmark, 27-28 June 2023. 
 
 * [Everything Everywhere All At Once: Sustainable Development Goals And  Interlinkages](../files/ucd_poster.pdf) Sustainable Development Talks, University College Dublin, Dublin, Ireland, 26 April 2023. 
+
+* New Book:[Informal Sector and the Environment](https://www.hhs.se/en/about-us/news/csr/2022/new-book-on-the-informal-sector-and-the-environment-by-csrs-ranjula-bali-swain-and-university-of-readings-uma-kambhampati/), 2022.
 
 * [Can Multidimensional Poverty Trends Leave No One Behind by 2030?”, panel discussion](https://www.sh.se/english/sodertorn-university/news/startpage/2022-04-22-sodertorn-universitys-participation-in-the-world-academic-forum-17---20-may-2022), World Academic Forum, Stockholm Summit, 18 May 2022.
 
