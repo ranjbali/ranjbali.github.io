@@ -10,9 +10,13 @@ author_profile: true
 
 Journals
 ======
-* Kar, A. and Bali Swain, R. [Does financial inclusion improve energy accessibility in Sub-Saharan Africa?](https://www.tandfonline.com/doi/full/10.1080/00036846.2023.2270227), Applied Economics, DOI: 10.1080/00036846.2023.2270227
+* Bali Swain, R. and Nsabimana, A. Financial inclusion and food security among rural households in Rwanda, European Review of Agricultural Economics, forthcoming 2024.
 
-* Karimu, A. and Bali Swain, R. [Implication of electricity taxes and levies on SDGs in the European Union](https://doi.org/10.1016/j.enpol.2023.113553), Energy Policy, Volume 177, 2023, 113553, ISSN 0301-4215
+* Bali Swain, R. Wallentin, F.Y., and X. Lin. [COVID-19 Pandemic Waves: Identification And Interpretation of Global Data](https://doi.org/10.1016/j.heliyon.2024.e25090), Heliyon, Vol. 10 (3), E25090, 2024. 
+
+* Kar, A. and Bali Swain, R. [Does financial inclusion improve energy accessibility in Sub-Saharan Africa?](https://www.tandfonline.com/doi/full/10.1080/00036846.2023.2270227), Applied Economics, October 2023.
+
+* Karimu, A. and Bali Swain, R. [Implication of electricity taxes and levies on SDGs in the European Union](https://doi.org/10.1016/j.enpol.2023.113553), Energy Policy, Volume 177, 2023, 113553, ISSN 0301-4215.
 
 * Bali Swain, R. and Karimu, A. and Gråd, E. [Sustainable Development, Renewable Energy Transformation and Employment Impact in the EU](https://www.tandfonline.com/doi/full/10.1080/13504509.2022.2078902), International Journal of Sustainable Development & World Ecology, 2022. 
 

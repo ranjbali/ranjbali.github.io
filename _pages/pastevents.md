@@ -8,6 +8,12 @@ author_profile: true
 {% include base_path %}
 
 ## Selected 
+*Presentation on [The Sustainable Development Goals Promise:Leveraging Interlinkages for Acceleration Towards Agenda 2030](https://www.idsj.org/event/seminar-on-the-sustainable-development-goals-promise-leveraging-interlinkages-for-acceleration-towards-agenda-2030/) at Institute of Development Studies, Jaipur, Rajasthan.
+
+* Presentation on [Harnessing Synergies and Advancing Indicators: Keys to SDG acceleration](https://isap.iges.or.jp/2023/en/at1.html) at the International Forum for Sustainable Asia and the Pacific (ISAP) annual conference, 22 December 2023, IGES, Kanagawa, Japan. [News](https://www.hhs.se/en/research/centers/csr/news/bali-swain-is-an-invited-speaker-at-the-international-forum-for-sustainable-asia-and-the-pacific-isap-annual-conference-japan/)
+
+* Presentation on [AI and Machine Learning for monitoring Sustainable Development Goals](https://www.hhs.se/en/research/centers/csr/news/ranjula-bali-swain-speaks-on-monitoring-sustainable-development-goals-with-ai-and-machine-learning/) at UN’s 14th Inter-agency and Expert Group meeting on Sustainable Development Goal Indicators, on the 25th of October 2023, in Copenhagen, Denmark.
+
 * [International Workshop on the Sustainable Development Goals](https://www.hhs.se/en/research/centers/csr/news/sdg-workshop/) on 19-20 October 2023. The objective of the workshop is to explore the SDG framework across: goals; targets; indicators; the 5 thematic areas of the SDGs (peace, people, planet, prosperity, partnerships); the 3 dimensions of sustainable development (economic, social, environment); and across various statistical frameworks.
 
 * [High Level Political Forum 2023 Side event](https://www.hhs.se/en/research/centers/csr/news/high-level-political-forum-2023-reviving-the-decade-of-action-exploring-interlinkages-and-partnerships/)  Reviving the Decade of Action: exploring interlinkages and partnerships, at Permanent Mission of Sweden to the United Nations, New York, USA, 12 July 2023. [Event Summary](../files/HLPF 2023 Side Event Report.pdf)
