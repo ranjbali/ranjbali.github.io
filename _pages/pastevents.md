@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Selected 
-*Presentation on [The Sustainable Development Goals Promise:Leveraging Interlinkages for Acceleration Towards Agenda 2030](https://www.idsj.org/event/seminar-on-the-sustainable-development-goals-promise-leveraging-interlinkages-for-acceleration-towards-agenda-2030/) at Institute of Development Studies, Jaipur, Rajasthan.
+* Presentation on [The Sustainable Development Goals Promise:Leveraging Interlinkages for Acceleration Towards Agenda 2030](https://www.idsj.org/event/seminar-on-the-sustainable-development-goals-promise-leveraging-interlinkages-for-acceleration-towards-agenda-2030/) at Institute of Development Studies, Jaipur, Rajasthan.
 
 * Presentation on [Harnessing Synergies and Advancing Indicators: Keys to SDG acceleration](https://isap.iges.or.jp/2023/en/at1.html) at the International Forum for Sustainable Asia and the Pacific (ISAP) annual conference, 22 December 2023, IGES, Kanagawa, Japan. [News](https://www.hhs.se/en/research/centers/csr/news/bali-swain-is-an-invited-speaker-at-the-international-forum-for-sustainable-asia-and-the-pacific-isap-annual-conference-japan/)
 
