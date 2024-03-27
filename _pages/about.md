@@ -13,6 +13,8 @@ Ranjula Bali Swain is Research Director at [Center for Sustainability Research, 
 ### News
 * Bali Swain, R. and Nsabimana, A. Financial inclusion and food security among rural households in Rwanda, European Review of Agricultural Economics, forthcoming 2024.
 
+* Stromberg, P.M and Bali Swain, R. [Citizen monitoring in environmental disclosure: an economics perspective, Journal of Environmental Management] (https://doi.org/10.1016/j.jenvman.2024.120567), 356 (2024) 120567. 
+
 * Bali Swain, R. Wallentin, F.Y., and X. Lin. [COVID-19 Pandemic Waves: Identification And Interpretation of Global Data](https://doi.org/10.1016/j.heliyon.2024.e25090), Heliyon, Vol. 10 (3), E25090, 2024. 
 
 * New Book on [Interlinkages between the Sustainable Development Goals](https://www.e-elgar.com/shop/gbp/interlinkages-between-the-sustainable-development-goals-9781803924939.html), is scheduled to be released at the [UN’s 14th Inter-agency and Expert Group meeting](https://unstats.un.org/sdgs/meetings/iaeg-sdgs-meeting-14/#foreword) on Sustainable Development Goal Indicators.[News](https://www.hhs.se/en/about-us/news/csr/2023/book-release-of-ranjula-bali-swain-and-yongyi-mins-new-book-at-uns-iaeg-meeting-in-copenhagen-on-25th-october-2023/)
