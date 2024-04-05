@@ -10,7 +10,7 @@ author_profile: true
 
 Journals
 ======
-* Bali Swain, R. and Nsabimana, A. [Financial inclusion and food security among rural households in Rwanda](https://academic.oup.com/erae/advance-article-abstract/doi/10.1093/erae/jbae007/7639592?redirectedFrom=fulltext), European Review of Agricultural Economics, forthcoming 2024.
+* Bali Swain, R. and Nsabimana, A. [Financial inclusion and food security among rural households in Rwanda](https://academic.oup.com/erae/advance-article-abstract/doi/10.1093/erae/jbae007/7639592?redirectedFrom=fulltext), European Review of Agricultural Economics, April 2024.
 
 * Stromberg, P.M and Bali Swain, R. [Citizen monitoring in environmental disclosure: an economics perspective, Journal of Environmental Management](https://doi.org/10.1016/j.jenvman.2024.120567), 356 (2024) 120567. 
 
