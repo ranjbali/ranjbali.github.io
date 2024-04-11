@@ -12,7 +12,7 @@ Journals
 ======
 * Bali Swain, R. and Nsabimana, A. [Financial inclusion and food security among rural households in Rwanda](https://academic.oup.com/erae/advance-article-abstract/doi/10.1093/erae/jbae007/7639592?redirectedFrom=fulltext), European Review of Agricultural Economics, April 2024.
 
-*Lin, X. and Bali Swain, R. Performance of Negatively Screened Sustainable Investments during crisis, International Review of Economics and Finance, forthcoming.
+* Lin, X. and Bali Swain, R. [Performance of Negatively Screened Sustainable Investments during crisis](https://www.sciencedirect.com/science/article/pii/S105905602400248X?via%3Dihub#fig1a), International Review of Economics and Finance, Vol. 93, Part A, June 2024, Pages 1226-1247.
 
 * Stromberg, P.M and Bali Swain, R. [Citizen monitoring in environmental disclosure: an economics perspective, Journal of Environmental Management](https://doi.org/10.1016/j.jenvman.2024.120567), 356 (2024) 120567. 
 
