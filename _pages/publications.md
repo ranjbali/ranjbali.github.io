@@ -119,7 +119,6 @@ Also published as:  Bali Swain, R.  (2010). Financial Services for Low-income Ho
 
 * Bali Swain, R., Henrysson, A. Swain, and Fuso Nerini, F. Sustainable Development in the wake of COVID-19.
 
-* Sepahvand, M., Shahbazian, R. and Bali Swain, R. Does Revolution change Risk Attitudes? Evidence from Burkina Faso.
 
 Book Chapters
 ======
