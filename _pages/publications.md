@@ -18,6 +18,8 @@ Journals
 
 * Bali Swain, R. Wallentin, F.Y., and X. Lin. [COVID-19 Pandemic Waves: Identification And Interpretation of Global Data](https://doi.org/10.1016/j.heliyon.2024.e25090), Heliyon, Vol. 10 (3), E25090, 2024. 
 
+* Sepahvand,M. Shahbazian, R. and Bali Swain, R. Does Revolution change Risk Attitudes? Evidence from Burkina Faso, forthcoming, Journal of International Development, 2024.
+
 * Kar, A. and Bali Swain, R. [Does financial inclusion improve energy accessibility in Sub-Saharan Africa?](https://www.tandfonline.com/doi/full/10.1080/00036846.2023.2270227), Applied Economics, October 2023.
 
 * Karimu, A. and Bali Swain, R. [Implication of electricity taxes and levies on SDGs in the European Union](https://doi.org/10.1016/j.enpol.2023.113553), Energy Policy, Volume 177, 2023, 113553, ISSN 0301-4215.
@@ -157,6 +159,8 @@ Also published as, Bali Swain, R. 2006. Microfinance and Women Empowerment, Sida
 * Bali Swain, R. 1997. A critical report on the econometric analysis of the price of food grains in India, in Economic Development and Agriculture, Editors Amit Bhaduri and Rune Skarstein, Edward Elgar Publishing limited, 1997. 
 
 ## Other Publications (Selected) 
+
+* Francesco, S., Zhou, X., Tassan-Viol F., Cogo, E., Rocca, C., Scutari, M., Bali Swain, R., Bollino, C.A., Mitrovic, S. abd Weidemeyer, N. [Enhancing G7 Leadershio in Global Climate Action](https://think7.org/wp-content/uploads/2024/05/T7it_tf2_pb03.pdf), Think 7, G7 Policy Brief, May 2024.
 
 * Bali Swain, R. [Sustainable Development Goals: A Continuum of the global development paradigm](https://akzente.giz.de/en/simplifying-sdgs), Akzente, German Development Agency (GIZ), 2023. Printed in English and [German](https://akzente.giz.de/de/die-ziele-vereinfachen)
 
