@@ -160,7 +160,7 @@ Also published as, Bali Swain, R. 2006. Microfinance and Women Empowerment, Sida
 
 ## Other Publications (Selected) 
 
-* Francesco, S., Zhou, X., Tassan-Viol F., Cogo, E., Rocca, C., Scutari, M., Bali Swain, R., Bollino, C.A., Mitrovic, S. abd Weidemeyer, N. [Enhancing G7 Leadershio in Global Climate Action](https://think7.org/wp-content/uploads/2024/05/T7it_tf2_pb03.pdf), Think 7, G7 Policy Brief, May 2024.
+* Francesco, S., Zhou, X., Tassan-Viol F., Cogo, E., Rocca, C., Scutari, M., Bali Swain, R., Bollino, C.A., Mitrovic, S. abd Weidemeyer, N. [Enhancing G7 Leadership in Global Climate Action](https://think7.org/wp-content/uploads/2024/05/T7it_tf2_pb03.pdf), Think 7, G7 Policy Brief, May 2024.
 
 * Bali Swain, R. [Sustainable Development Goals: A Continuum of the global development paradigm](https://akzente.giz.de/en/simplifying-sdgs), Akzente, German Development Agency (GIZ), 2023. Printed in English and [German](https://akzente.giz.de/de/die-ziele-vereinfachen)
 

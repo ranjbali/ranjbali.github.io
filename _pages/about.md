@@ -21,7 +21,7 @@ Ranjula Bali Swain is Research Director at [Center for Sustainability Research, 
 
 * Sepahvand,M. Shahbazian, R. and Bali Swain, R. Does Revolution change Risk Attitudes? Evidence from Burkina Faso, forthcoming, Journal of International Development, 2024.
 
-* Francesco, S., Zhou, X., Tassan-Viol F., Cogo, E., Rocca, C., Scutari, M., Bali Swain, R., Bollino, C.A., Mitrovic, S. abd Weidemeyer, N. [Enhancing G7 Leadershio in Global Climate Action](https://think7.org/wp-content/uploads/2024/05/T7it_tf2_pb03.pdf), Think 7, G7 Policy Brief, May 2024.
+* Francesco, S., Zhou, X., Tassan-Viol F., Cogo, E., Rocca, C., Scutari, M., Bali Swain, R., Bollino, C.A., Mitrovic, S. abd Weidemeyer, N. [Enhancing G7 Leadership in Global Climate Action](https://think7.org/wp-content/uploads/2024/05/T7it_tf2_pb03.pdf), Think 7, G7 Policy Brief, May 2024.
 
 * New Book on [Interlinkages between the Sustainable Development Goals](https://www.e-elgar.com/shop/gbp/interlinkages-between-the-sustainable-development-goals-9781803924939.html), is scheduled to be released at the [UN’s 14th Inter-agency and Expert Group meeting](https://unstats.un.org/sdgs/meetings/iaeg-sdgs-meeting-14/#foreword) on Sustainable Development Goal Indicators.[News](https://www.hhs.se/en/about-us/news/csr/2023/book-release-of-ranjula-bali-swain-and-yongyi-mins-new-book-at-uns-iaeg-meeting-in-copenhagen-on-25th-october-2023/)
 
