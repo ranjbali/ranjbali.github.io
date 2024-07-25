@@ -12,7 +12,7 @@ Journals
 ======
 * Bali Swain, R. and Nsabimana, A. [Financial inclusion and food security among rural households in Rwanda](https://academic.oup.com/erae/advance-article-abstract/doi/10.1093/erae/jbae007/7639592?redirectedFrom=fulltext), European Review of Agricultural Economics, April 2024.
 
-* Luo L., Zhang J., Wang H.,   Chen M., Jiang Q., Yang W., Wang F., Zhang J., Bali Swain R. et al. [Innovations in science, technology, engineering, and policy (iSTEP) for addressing environmental issues towards sustainable development](https://doi.org/10.59717/j.xinn-geo.2024.100087), The Innovation Geoscience 2(3): 100087. 
+* Luo L., Zhang J., Wang H.,   Chen M., Jiang Q., Yang W., Wang F., Zhang J., Bali Swain R. et al. [Innovations in science, technology, engineering, and policy (iSTEP) for addressing environmental issues towards sustainable development](https://doi.org/10.59717/j.xinn-geo.2024.100087), The Innovation Geoscience 2(3): 100087, July 2024. 
 
 * Lin, X. and Bali Swain, R. [Performance of Negatively Screened Sustainable Investments during crisis](https://www.sciencedirect.com/science/article/pii/S105905602400248X?via%3Dihub#fig1a), International Review of Economics and Finance, Vol. 93, Part A, June 2024, Pages 1226-1247.
 
