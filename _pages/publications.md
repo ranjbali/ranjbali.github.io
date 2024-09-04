@@ -10,6 +10,8 @@ author_profile: true
 
 Journals
 ======
+* Huang L., Bali Swain, R., Jeppesen, E., Cheng, H., Zhai, Panmao., Gu, Baojing., Barcelo, D., Lu, J., Wei, K., Luo, L., Wang, F., Wang, H., Zeng, J.,Guo, H. [Harnessing science, technology, and innovation to drive synergy between Climate Goals and the SDGs](https://www.cell.com/the-innovation/fulltext/S2666-6758(24)00131-0), The Innovation, 100693, September 02, 2024.
+
 * Bali Swain, R. and Nsabimana, A. [Financial inclusion and food security among rural households in Rwanda](https://academic.oup.com/erae/advance-article-abstract/doi/10.1093/erae/jbae007/7639592?redirectedFrom=fulltext), European Review of Agricultural Economics, April 2024.
 
 * Luo L., Zhang J., Wang H.,   Chen M., Jiang Q., Yang W., Wang F., Zhang J., Bali Swain R. et al. [Innovations in science, technology, engineering, and policy (iSTEP) for addressing environmental issues towards sustainable development](https://doi.org/10.59717/j.xinn-geo.2024.100087), The Innovation Geoscience 2(3): 100087, July 2024. 
