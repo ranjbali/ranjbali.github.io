@@ -22,7 +22,7 @@ Journals
 
 * Bali Swain, R. Wallentin, F.Y., and X. Lin. [COVID-19 Pandemic Waves: Identification And Interpretation of Global Data](https://doi.org/10.1016/j.heliyon.2024.e25090), Heliyon, Vol. 10 (3), E25090, 2024. 
 
-* Sepahvand,M. Shahbazian, R. and Bali Swain, R. Does Revolution change Risk Attitudes? Evidence from Burkina Faso, forthcoming, Journal of International Development, 2024.
+* Sepahvand,M. Shahbazian, R. and Bali Swain, R. [Does Revolution change Risk Attitudes? Evidence from Burkina Faso](http://doi.org/10.1002/jid.3934), Journal of International Development, 2024; 1-15.
 
 * Kar, A. and Bali Swain, R. [Does financial inclusion improve energy accessibility in Sub-Saharan Africa?](https://www.tandfonline.com/doi/full/10.1080/00036846.2023.2270227), Applied Economics, October 2023.
 
