@@ -11,7 +11,7 @@ redirect_from:
 
 * <img src="../images/Handbook.png"  width="15%" height="15%">  
 
-* Bali Swain, R and Dobers, P. (Eds) [Routledge Handbook of the UN Sustainable Development Goals Research and Policy](https://www.routledge.com/Routledge-Handbook-of-the-UN-Sustainable-Development-Goals-Research-and-Policy/BaliSwain-Dobers/p/book/9781032257037)
+* Bali Swain, R and Dobers, P. (Eds) [Routledge Handbook of the UN Sustainable Development Goals Research and Policy](https://www.routledge.com/Routledge-Handbook-of-the-UN-Sustainable-Development-Goals-Research-and-Policy/BaliSwain-Dobers/p/book/9781032257037), forthcoming.
 
 * <img src="../images/book_interlinkages.png"  width="15%" height="15%"> 
 
