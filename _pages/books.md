@@ -15,7 +15,9 @@ redirect_from:
 
 * <img src="../images/book_interlinkages.png"  width="15%" height="15%"> 
 
-* Bali Swain, R. and Min, Y. (eds) [Interlinkages between the Sustainable Development Goals](https://www.e-elgar.com/shop/gbp/interlinkages-between-the-sustainable-development-goals-9781803924939.html),Progressing the Sustainable Development Goals series, Edward Elgar, UK, 2023.  
+* Bali Swain, R. and Min, Y. (eds) [Interlinkages between the Sustainable Development Goals](https://www.e-elgar.com/shop/gbp/interlinkages-between-the-sustainable-development-goals-9781803924939.html),Progressing the Sustainable Development Goals series, Edward Elgar, UK, 2023.
+The book was released at the [UN’s 14th Inter-agency and Expert Group meeting](https://unstats.un.org/sdgs/meetings/iaeg-sdgs-meeting-14/#foreword) on Sustainable Development Goal Indicators.[News](https://www.hhs.se/en/about-us/news/csr/2023/book-release-of-ranjula-bali-swain-and-yongyi-mins-new-book-at-uns-iaeg-meeting-in-copenhagen-on-25th-october-2023/)
+
 
   <img src="../images/book_informal.png"  width="15%" height="15%"> 
 

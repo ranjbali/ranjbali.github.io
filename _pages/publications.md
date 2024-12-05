@@ -10,6 +10,8 @@ author_profile: true
 
 Journals
 ======
+* Henrysson M., Bali Swain, R., Swain, A. Fuso Nerini, Francesco. [Sustainable Development Goals and wellbeing for resilient societies: shocks and recovery](https://www.nature.com/articles/s41599-024-03973-8?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241111&utm_content=10.1057/s41599-024-03973-8), Humanities and Social Sciences Communications, 11:1513, 2024.
+
 * Huang L., Bali Swain, R., Jeppesen, E., Cheng, H., Zhai, Panmao., Gu, Baojing., Barcelo, D., Lu, J., Wei, K., Luo, L., Wang, F., Wang, H., Zeng, J.,Guo, H. [Harnessing science, technology, and innovation to drive synergy between Climate Goals and the SDGs](https://www.cell.com/the-innovation/fulltext/S2666-6758(24)00131-0), The Innovation, 100693, September 02, 2024.
 
 * Bali Swain, R. and Nsabimana, A. [Financial inclusion and food security among rural households in Rwanda](https://academic.oup.com/erae/advance-article-abstract/doi/10.1093/erae/jbae007/7639592?redirectedFrom=fulltext), European Review of Agricultural Economics, April 2024.
@@ -22,7 +24,7 @@ Journals
 
 * Bali Swain, R. Wallentin, F.Y., and X. Lin. [COVID-19 Pandemic Waves: Identification And Interpretation of Global Data](https://doi.org/10.1016/j.heliyon.2024.e25090), Heliyon, Vol. 10 (3), E25090, 2024. 
 
-* Sepahvand,M. Shahbazian, R. and Bali Swain, R. [Does Revolution change Risk Attitudes? Evidence from Burkina Faso](http://doi.org/10.1002/jid.3934), Journal of International Development, 2024; 1-15.
+* Sepahvand,M. Shahbazian, R. and Bali Swain, R. [Does Revolution change Risk Attitudes? Evidence from Burkina Faso](http://doi.org/10.1002/jid.3934), Journal of International Development, 36(8), pp. 3010-3024, 2024.
 
 * Kar, A. and Bali Swain, R. [Does financial inclusion improve energy accessibility in Sub-Saharan Africa?](https://www.tandfonline.com/doi/full/10.1080/00036846.2023.2270227), Applied Economics, October 2023.
 
