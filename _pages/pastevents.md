@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Selected 
-* Unlocking Synergies Between Climate Objectives and the SDGs via Innovation, Symposium on MIRAI GCT Materials for Energy Conversion and Storage, 13 December 2024, Tokyo, Japan. (Online participation)
+* Presentation on Unlocking Synergies Between Climate Objectives and the SDGs via Innovation, Symposium on MIRAI GCT Materials for Energy Conversion and Storage, 13 December 2024, Tokyo, Japan. (Online participation)
 
 * Presentation on [Harnessing science, technology, and innovation to drive synergy between climate goals and the SDGs](https://piloti.sophia.ac.jp/assets/uploads/2024/10/28133255/Sophia_Symposium_program_2024.pdf), The  2024 Sophia Symposium on Advanced Electrolyte Materials for Energy Storage and Conversion, 11-12 December 2024, Sophia University, Tokyo, Japan. (Online participation)
 
