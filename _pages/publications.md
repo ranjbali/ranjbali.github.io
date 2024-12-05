@@ -167,6 +167,9 @@ Also published as, Bali Swain, R. 2006. Microfinance and Women Empowerment, Sida
 
 * Francesco, S., Zhou, X., Tassan-Viol F., Cogo, E., Rocca, C., Scutari, M., Bali Swain, R., Bollino, C.A., Mitrovic, S. abd Weidemeyer, N. [Enhancing G7 Leadership in Global Climate Action](https://think7.org/wp-content/uploads/2024/05/T7it_tf2_pb03.pdf), Think 7, G7 Policy Brief, May 2024.
 
+*Contributing expert to UN-DESA & UNFCCC Report. [Integrating climate action with sustainable development policies can accelerate progress, enhance resource efficiency, and facilitate coherent policymaking, but this requires overcoming significant gaps between scientific evidence and policy implementation (knowledge-action gap)](https://lnkd.in/dcUPpWCC), 2024.
+
+
 * Bali Swain, R. [Sustainable Development Goals: A Continuum of the global development paradigm](https://akzente.giz.de/en/simplifying-sdgs), Akzente, German Development Agency (GIZ), 2023. Printed in English and [German](https://akzente.giz.de/de/die-ziele-vereinfachen)
 
 * United Nations Office for Risk Reduction (UNDRR). 2022. [Global Assessment Report on Disaster Risk Reduction (GAR)](https://www.undrr.org/gar/gar2022-our-world-risk-gar#container-downloads) (Bali Swain, R. contributing expert), United Nations, Geneva.
