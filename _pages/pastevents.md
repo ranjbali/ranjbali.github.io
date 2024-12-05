@@ -8,6 +8,10 @@ author_profile: true
 {% include base_path %}
 
 ## Selected 
+* Unlocking Synergies Between Climate Objectives and the SDGs via Innovation, Symposium on MIRAI GCT Materials for Energy Conversion and Storage, 13 December 2024, Tokyo, Japan. (Online participation)
+
+* Presentation on [Harnessing science, technology, and innovation to drive synergy between climate goals and the SDGs](https://piloti.sophia.ac.jp/assets/uploads/2024/10/28133255/Sophia_Symposium_program_2024.pdf), The  2024 Sophia Symposium on Advanced Electrolyte Materials for Energy Storage and Conversion, 11-12 December 2024, Sophia University, Tokyo, Japan. (Online participation)
+
 * Moderating Panel discussion on the importance of AI cooperation between Africa and Europe, CoRE AI - Cluster of Research Excellence in AI, Uppsala University, 21 November 2024. [News!](https://www.linkedin.com/posts/africaeurope-core-ai_africaeuropecore-ai-innovation-activity-7265766752020529154-J5U5?utm_source=share&utm_medium=member_desktop)
 
 * Presentation on [The Sustainable Development Goals Promise:Leveraging Interlinkages for Acceleration Towards Agenda 2030](https://www.idsj.org/event/seminar-on-the-sustainable-development-goals-promise-leveraging-interlinkages-for-acceleration-towards-agenda-2030/), 12 February 2024, at the Institute of Development Studies, Jaipur, Rajasthan, India.
