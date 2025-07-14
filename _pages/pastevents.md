@@ -8,9 +8,16 @@ author_profile: true
 {% include base_path %}
 
 ## Selected 
-* Presentation on Unlocking Synergies Between Climate Objectives and the SDGs via Innovation, Symposium on MIRAI GCT Materials for Energy Conversion and Storage, 13 December 2024, Tokyo, Japan. (Online participation)
+* [Special session and Handbook launch](https://2025.isdrsconferences.org/additional-programs/?fbclid=IwY2xjawLhsblleHRuA2FlbQIxMABicmlkETE4cHhNM0Z1cFoyb1dWcVBQAR6VCuR5PSmQCwo1_RQaYij5nujp77Ub-5keH5XIE-K0jjH-R5gbiZePShVcUQ_aem_dlgFWK6tZ5w1kzD4LUYPXA) at 31st Annual International Sustainable Development Research Society (ISDRS) Conference, 8-12 July 2025, in Budapest, Hungary. Presentations on The Sustainable Development Goals Promise and Beyond; and Achieving Sustainable Markets.
 
-* Presentation on [Harnessing science, technology, and innovation to drive synergy between climate goals and the SDGs](https://piloti.sophia.ac.jp/assets/uploads/2024/10/28133255/Sophia_Symposium_program_2024.pdf), The  2024 Sophia Symposium on Advanced Electrolyte Materials for Energy Storage and Conversion, 11-12 December 2024, Sophia University, Tokyo, Japan. (Online participation)
+
+* Invited seminar on [Sustainable Development Goals and AI: Monitoring, Interlinkages and Policy], (../files/OECD seminar announcement.pdf) OECD headquarters, 13 June 2025, Paris, France.
+
+* Inaugural lecture on [Circular Economy, Sustainable Consumption and Production: Challenges and Development], the International Workshop on Intellectual Property and Circular Economy and Swedish-Baltic Intellectual Property Network Meeting, Department of Law, Södertörn University, Sweden, 12-13 June 2025. (hybrid)
+
+* Presentation on Unlocking Synergies Between Climate Objectives and the SDGs via Innovation, Symposium on MIRAI GCT Materials for Energy Conversion and Storage, 13 December 2024, Tokyo, Japan. (hybrid)
+
+* Presentation on [Harnessing science, technology, and innovation to drive synergy between climate goals and the SDGs](https://piloti.sophia.ac.jp/assets/uploads/2024/10/28133255/Sophia_Symposium_program_2024.pdf), The  2024 Sophia Symposium on Advanced Electrolyte Materials for Energy Storage and Conversion, 11-12 December 2024, Sophia University, Tokyo, Japan. (hybrid)
 
 * Moderating Panel discussion on the importance of AI cooperation between Africa and Europe, CoRE AI - Cluster of Research Excellence in AI, Uppsala University, 21 November 2024. [News!](https://www.linkedin.com/posts/africaeurope-core-ai_africaeuropecore-ai-innovation-activity-7265766752020529154-J5U5?utm_source=share&utm_medium=member_desktop)
 
