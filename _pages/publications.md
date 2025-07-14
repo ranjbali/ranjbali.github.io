@@ -128,6 +128,10 @@ Also published as:  Bali Swain, R.  (2010). Financial Services for Low-income Ho
 
 Book Chapters
 ======
+* Bali Swain, R. and Dobers, P. The Sustainable Development Goals Promise and Beyond. In Bali Swain, R. and Dobers, P. (eds)  Handbook of Sustainable Development Goals: Research, Policy and Practice, Routledge, April 2025.   
+
+* Bali Swain, R. and Sjöberg, Örjan. Achieving Sustainable Markets. In Bali Swain, R. and Dobers, P. (eds)  Handbook of Sustainable Development Goals:   Research, Policy and Practice, Routledge, April 2025.    
+
 * Bali Swain, R. and Min, Y. 2023. Interlinkages and Interactions among the Sustainable Development Goals. In: Bali Swain, R. and Min, Y. (eds) Interlinkages between the Sustainable Development Goals, Progressing the Sustainable Development Goals series, Edward Elgar, UK, October 2023.
 
 * Bali Swain, R. and Kambhampati, U. 2022. Introduction. In: Bali Swain, R. and Kambhampati, U (eds) The Informal Sector and the Environment, pp. 1-15,Taylor and Francis Books: Routledge, London, 2022.
