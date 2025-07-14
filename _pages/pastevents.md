@@ -12,7 +12,7 @@ author_profile: true
 
 * Invited seminar on [Sustainable Development Goals and AI: Monitoring, Interlinkages and Policy] (../files/OECD seminar announcement.pdf) OECD headquarters, 13 June 2025, Paris, France.
 
-* Inaugural lecture on Circular Economy, Sustainable Consumption and Production: Challenges and Development, the International Workshop on Intellectual Property and Circular Economy and Swedish-Baltic Intellectual Property Network Meeting, Department of Law, Södertörn University, Sweden, 12-13 June 2025. (hybrid)
+* Inaugural lecture on Circular Economy, Sustainable Consumption and Production: Challenges and Development, at the International Workshop on Intellectual Property and Circular Economy and Swedish-Baltic Intellectual Property Network Meeting, Department of Law, Södertörn University, Sweden, 12-13 June 2025. (hybrid)
 
 * Presentation on Unlocking Synergies Between Climate Objectives and the SDGs via Innovation, Symposium on MIRAI GCT Materials for Energy Conversion and Storage, 13 December 2024, Tokyo, Japan. (hybrid)
 
