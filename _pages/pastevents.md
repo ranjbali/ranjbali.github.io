@@ -12,6 +12,8 @@ author_profile: true
 
 * Panel discussion on the [roadmap for the 2027 SDG summit](../files/Gröningen University.pdf) Future of Sustainable Development, University of Groningen, Netherlands, 8 October 2025.
 
+* Invited talk on [Net Cost of Intelligence: AI And the Sustainable Development Goals](../files/UNDESA%20seminar%20info%2024%20July%202025.pdf), joint seminar hosted by the Integrated Policy Analysis and SDG Monitoring sections at DESA, United Nations Headquarters in New York, USA, 24 July 2025.
+
 * [Special session and Handbook launch](https://2025.isdrsconferences.org/additional-programs/?fbclid=IwY2xjawLhsblleHRuA2FlbQIxMABicmlkETE4cHhNM0Z1cFoyb1dWcVBQAR6VCuR5PSmQCwo1_RQaYij5nujp77Ub-5keH5XIE-K0jjH-R5gbiZePShVcUQ_aem_dlgFWK6tZ5w1kzD4LUYPXA) at 31st Annual International Sustainable Development Research Society (ISDRS) Conference, 8-12 July 2025, in Budapest, Hungary. Presentations on The Sustainable Development Goals Promise and Beyond; and Achieving Sustainable Markets.
 
 * Invited seminar on [Sustainable Development Goals and AI: Monitoring, Interlinkages and Policy](../files/OECD seminar announcement.pdf) OECD headquarters, 13 June 2025, Paris, France.
