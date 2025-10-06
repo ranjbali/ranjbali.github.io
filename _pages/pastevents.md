@@ -12,6 +12,14 @@ author_profile: true
 
 * Panel discussion on the [roadmap for the 2027 SDG summit](../files/Gröningen University.pdf) Future of Sustainable Development, University of Groningen, Netherlands, 8 October 2025.
 
+* Panel discussion on Reflections on Sustainable Development Goals to co-create the Post-2030 Agenda, FBAS conference, International Research Center for Big Data for Sustainable Development Goals, Beijing, China, 8 September 2025. 
+
+* Presentation on The Development Continuum Sustainable Development Goals & Interlinkages, MIT Climate & Sustainability Consortium (MCSC), MIT, USA, 12 August 2025.
+
+* Presentation on Artificial Intelligence and the Sustainable Development Goals:
+Synergies, Trade-offs, Policy,  MIT Center for Sustainability Science and Strategy, MIT, USA, 1 August 2025.
+
+
 * Invited talk on [Net Cost of Intelligence: AI And the Sustainable Development Goals](../files/UNDESA%20seminar%20info%2024%20July%202025.pdf), joint seminar hosted by the Integrated Policy Analysis and SDG Monitoring sections at DESA, United Nations Headquarters in New York, USA, 24 July 2025.
 
 * [Special session and Handbook launch](https://2025.isdrsconferences.org/additional-programs/?fbclid=IwY2xjawLhsblleHRuA2FlbQIxMABicmlkETE4cHhNM0Z1cFoyb1dWcVBQAR6VCuR5PSmQCwo1_RQaYij5nujp77Ub-5keH5XIE-K0jjH-R5gbiZePShVcUQ_aem_dlgFWK6tZ5w1kzD4LUYPXA) at 31st Annual International Sustainable Development Research Society (ISDRS) Conference, 8-12 July 2025, in Budapest, Hungary. Presentations on The Sustainable Development Goals Promise and Beyond; and Achieving Sustainable Markets.
