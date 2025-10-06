@@ -8,9 +8,9 @@ author_profile: true
 {% include base_path %}
 
 ## Selected 
-* Panel discussion on the [Leveraging Data Innovations for Addressing Information Gaps on SDGs](../files/OECD_9 Oct 2025.pdf), OECD, Paris, France, 9 October 2025.
+* Panel discussion on the [Leveraging Data Innovations for Addressing Information Gaps on SDGs](../files/OECD_9 Oct 2025.pdf) OECD, Paris, France, 9 October 2025.
 
-* Panel discussion on the [roadmap for the 2027 SDG summit](../files/Gröningen University.pdf), Future of Sustainable Development, University of Groningen, Netherlands, 8 October 2025.
+* Panel discussion on the [roadmap for the 2027 SDG summit](../files/Gröningen University.pdf) Future of Sustainable Development, University of Groningen, Netherlands, 8 October 2025.
 
 * [Special session and Handbook launch](https://2025.isdrsconferences.org/additional-programs/?fbclid=IwY2xjawLhsblleHRuA2FlbQIxMABicmlkETE4cHhNM0Z1cFoyb1dWcVBQAR6VCuR5PSmQCwo1_RQaYij5nujp77Ub-5keH5XIE-K0jjH-R5gbiZePShVcUQ_aem_dlgFWK6tZ5w1kzD4LUYPXA) at 31st Annual International Sustainable Development Research Society (ISDRS) Conference, 8-12 July 2025, in Budapest, Hungary. Presentations on The Sustainable Development Goals Promise and Beyond; and Achieving Sustainable Markets.
 
