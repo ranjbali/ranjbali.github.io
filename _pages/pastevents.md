@@ -8,8 +8,10 @@ author_profile: true
 {% include base_path %}
 
 ## Selected 
-* Panel discussion on the [Leveraging Data Innovations for Addressing Information Gaps on SDGs](../files/OECD_9 Oct 2025.pdf) OECD, Paris, France, 9 October 2025.
+* Talk on Artificial Intelligence, Quantum Science, and the SDGs: Pathways to Sustainable Transformation in Africa, at the [Fifth International Biennial ARUA Conference](https://arua.org/conferences/conference2025/), Kampala, Uganda, on 29 October 2025.
 
+* Panel discussion on the [Leveraging Data Innovations for Addressing Information Gaps on SDGs](../files/OECD_9 Oct 2025.pdf) OECD, Paris, France, 9 October 2025.
+ 
 * Panel discussion on the [roadmap for the 2027 SDG summit](../files/Gröningen University.pdf) Future of Sustainable Development, University of Groningen, Netherlands, 8 October 2025.
 
 * Panel discussion on Reflections on Sustainable Development Goals to co-create the Post-2030 Agenda, FBAS conference, International Research Center for Big Data for Sustainable Development Goals, Beijing, China, 8 September 2025. 
