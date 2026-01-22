@@ -8,6 +8,8 @@ author_profile: true
 {% include base_path %}
 
 ## Selected 
+* Policy talk, [AI-SDG Nexus: Risks, Opportunities and Policy](/Users/ranjula_admin/Dropbox/ranjbali.github.io/images/IIT_Mumbai.png), at Ashank Desai Centre for Policy Studies, Indian Institute of Technology Bombay, India, on 16 December 2025.
+
 * Talk on Artificial Intelligence, Quantum Science, and the SDGs: Pathways to Sustainable Transformation in Africa, at the [Fifth International Biennial ARUA Conference](https://arua.org/conferences/conference2025/), Kampala, Uganda, on 29 October 2025.
 
 * Panel discussion on the [Leveraging Data Innovations for Addressing Information Gaps on SDGs](../files/OECD_9 Oct 2025.pdf) OECD, Paris, France, 9 October 2025.
