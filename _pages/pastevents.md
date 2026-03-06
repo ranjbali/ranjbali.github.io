@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Selected 
-* Presentation and panel on [Circular Economy and Global Value Chains in the Textile Industry](/files/Stakeholder Workshop 27 Feb 2026.png), Stakeholder seminar, Stockholm School of Economics, Sweden, 27 February 2026.
+* Presentation and panel discussion on [Circular Economy and Global Value Chains in the Textile Industry](/files/StakeholderWorkshop27Feb2026.png ), Stakeholder seminar, Stockholm School of Economics, Sweden, 27 February 2026.
 
 * Policy talk, [AI-SDG Nexus: Risks, Opportunities and Policy](/files/IIT_Mumbai.pdf), at Ashank Desai Centre for Policy Studies, Indian Institute of Technology Bombay, India, on 16 December 2025.
 
