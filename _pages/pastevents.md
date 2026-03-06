@@ -8,6 +8,8 @@ author_profile: true
 {% include base_path %}
 
 ## Selected 
+* Presentation and panel on [Circular Economy and Global Value Chains in the Textile Industry](/files/Stakeholder Workshop 27 Feb 2026.png), Stakeholder seminar, Stockholm School of Economics, Sweden, 27 February 2026.
+
 * Policy talk, [AI-SDG Nexus: Risks, Opportunities and Policy](/files/IIT_Mumbai.pdf), at Ashank Desai Centre for Policy Studies, Indian Institute of Technology Bombay, India, on 16 December 2025.
 
 * Talk on Artificial Intelligence, Quantum Science, and the SDGs: Pathways to Sustainable Transformation in Africa, at the [Fifth International Biennial ARUA Conference](https://arua.org/conferences/conference2025/), Kampala, Uganda, on 29 October 2025.
