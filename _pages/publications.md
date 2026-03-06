@@ -101,29 +101,43 @@ Also published as:  Bali Swain, R.  (2010). Financial Services for Low-income Ho
 
 ## Recent Working Papers
   
-* Shresta, R., Bali Swain, R. and Stromberg, P.M. Global Energy Consumption and Economic Growth.
+* Bali Swain, R. Artificial Intelligence Innovation and Climate Change: lessons for Global Governance.
 
-* Lin, X. and Bali Swain, R. Performance of Negatively Screened Sustainable Investments during the COVID-19.
+* Bali Swain, R. Chinta,S. Schlosser, C.A. The Cost of Intelligence: AI and Sustainable Development.
 
-* Lin, X. and Bali Swain, R. Sustainable Investments and Investor-Surplus During Crisis.
+* Bali Swain, R. Chinta,S. Schlosser, C.A. Environmental Cost of AI.
+
+* Zhou, X. Bali Swain, R. Zusman, E. Climate Change as a Health Emergency in Africa: Identifying High-Impact Policy Leverage Points.
+  
+* Zhou, X., Moinuddin, M. and R. Bali Swain, Key SDG Indicators to Address Data Gaps, System Issues and Implementability Challenges.
+
+* Bali Swain, R. Dev,P. George, P.R. Saxena, S. The Development Continuum: The Structural Evolution of Global Development Frameworks.
+
+* Gråd, E. Rapanos, T. Bali Swain, R. Ranganathan, S. Nudges, Long-term morality effects of behavioral interventions in networks. 
+ 
+* Lin, X. Bali Swain, R. Do Sustainable Investments Enhance Financial Stability? Evidence from ESG Leader Indices during Crisis.
+
+* Huang,L. Bali Swain,R. et.al. Data Scarcity to Strategic Insight: Monitoring Global SDGs using Big Earth Data and AI.
+
+* Huang,L. Zheng, X. Bali Swain,R. et. al. Policy Coherence Impact on Sustainable Development Progress.
+
+* Kathuria, V. Bali Swain, R. Jardosh, N. Managing Marine Plastic Pollution: Impact of Policies using System Dynamics.
 
 * Kar, A. and Bali Swain, R. Does Financial Inclusion Impact Energy Poverty? 
 
-* Kar, A. and Bali Swain, R. Financial inclusion and energy poverty: A panel data analysis of the Sub-Saharan African countries.
+* Kar, A. and Bali Swain, R. Financial Inclusion, Globalisation, and Governance: Determinants of Energy Access in Middle-Income Countries.
 
-* Stromberg, P.M and Bali Swain, R. Ground-up environmental information systems for effective transparency: an economic perspective.
+* Kathuria, V. Bali Swain, R. Jardosh, N. Impact of Policies on Marine Plastic Pollution in India's Coastal and Riverine Cities: A System Dynamics Study.
 
-* Gråd, E. Rapanos, T. Bali Swain, R. Ranganathan, S. Nudges, networks and social preferences.
+* Shresta, R., Bali Swain, R. and Stromberg, P.M. Global Energy Consumption and Economic Growth.
 
-* Zhou, X., Moinuddin, M. and R. Bali Swain, Streamlining SDG indicators for effective monitoring: A strategic approach to key indicators.
+* Bali Swain, R. Sweet, S. Fast Fashion to Circular Futures: Institutional and Market Challenges in adopting Circular Business Models.
 
-* Bali Swain, R., Wallentin, F.Y., and X. Lin, COVID-19 Pandemic Waves: Identification and Interpretation of Global Data.
-
+* Bali Swain, R. Sweet, S. Luistro Jansson, M. Monetizing Sustainability from a Firm Perspective: A Scoping Review.
+  
 * Reksten, N. and Bali Swain, R. Stakeholder Groups and Firms' Corporate Sustainability Decisions.
 
 * Bali Swain, R. and Nsabimana, A. Financial inclusion and food security among rural households in Rwanda.
-
-* Bali Swain, R., Henrysson, A. Swain, and Fuso Nerini, F. Sustainable Development in the wake of COVID-19.
 
 
 Book Chapters
