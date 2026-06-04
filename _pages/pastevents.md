@@ -8,6 +8,11 @@ author_profile: true
 {% include base_path %}
 
 ## Selected 
+
+* Presentation on Beyond 2030: Big Earth Data, Digital indicators, and System Transformation for SDGs, Special Session at the 5th Huangshan Dialogue on UNESCO-designated Sites and Sustainable Development, 31st May 2026, Huangshan, China.
+
+* Presentation and panel discussion on [Beyond 2030: From Measurements to Systems Transformation in Global Sustainable Development](https://earthobservations.org/about-us/events/2026-geo-symposium-geo-21-plenary/schedule/2026-geo-symposium-geo-21-plenary-community-event-eo4sdg-initiative-progress-and-plan-for-post-2025-geo-work-programme-leveraging-eo-and-ai) GEO Symposium and GEO-21 Plenary, Investing in Earth's Intelligence for Resilient Future, 26-28 May 2026, World Meteorological Organization, Geneva, Switzerland.
+
 * Presentation and panel discussion on [Circular Economy and Global Value Chains in the Textile Industry](https://www.hhs.se/en/about-us/news/sir/2026/presentation-of-a-new-stakeholder-report-on-circular-economy-and-global-value-chains-in-the-textile-industry/), Stakeholder seminar, Stockholm School of Economics, Sweden, 27 February 2026, [Register](/files/StakeholderWorkshop27Feb2026.pdf).
 
 * Policy talk, [AI-SDG Nexus: Risks, Opportunities and Policy](/files/IIT_Mumbai.pdf), at Ashank Desai Centre for Policy Studies, Indian Institute of Technology Bombay, India, on 16 December 2025.
