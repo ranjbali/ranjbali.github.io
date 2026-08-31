@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Selected 
+* Presentation on Making the SDGs Visible, Measurable, and Comparable: Digital Technologies for Post-2030 Monitoring, and Roundable on From Digital Evidence to Collective Action: Building a Global Science Partnership for the SDGs and Beyond, at the [International Decade of Sciences for Sustainable Development (IDSSD) Global Conference 2026](https://www.unesco.org/en/articles/2026-global-conference-international-decade-sciences-sustainable-development-2024-2033), Thematic session on Digital Technologies Driving Global Sustainable Development, 15-17 July 2026, UNESCO headquarters, Paris. 
 
 * Presentation on Beyond 2030: Big Earth Data, Digital indicators, and System Transformation for SDGs, Special Session at the 5th Huangshan Dialogue on UNESCO-designated Sites and Sustainable Development, 31st May 2026, Huangshan, China. [News](https://www.hhs.se/news/sir/2026/big-earth-data-digital-indicators-and-systems-transformation-for-the-sdgs/).
 
