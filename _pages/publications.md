@@ -10,7 +10,7 @@ author_profile: true
 
 Journals
 ======
-* Bali Swain, R. [Artificial Intelligence and Climate Change: lessons for global governance](https://doi.org/10.1016/j.erss.2026.104937),Energy Research and Social Science, Volume 140, 104937, October 2026
+* Bali Swain, R. [Artificial Intelligence and Climate Change: lessons for global governance](https://doi.org/10.1016/j.erss.2026.104937),Energy Research and Social Science, Volume 140, 104937, October 2026.
                     
 * Gråd, E., Rapanos, T., Bali Swain, R., Ranganathan, S. [Long-term morality effects of behavioral interventions in networks](https://doi.org/10.1007/s00182-026-01005-0), International Journal of Game Theory, 55:34, 2026.   
 
