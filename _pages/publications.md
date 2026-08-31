@@ -10,6 +10,10 @@ author_profile: true
 
 Journals
 ======
+* Bali Swain, R. [Artificial Intelligence and Climate Change: lessons for global governance](https://doi.org/10.1016/j.erss.2026.104937),Energy Research and Social Science, Volume 140, 104937, October 2026
+                    
+* Gråd, E., Rapanos, T., Bali Swain, R., Ranganathan, S. [Long-term morality effects of behavioral interventions in networks](https://doi.org/10.1007/s00182-026-01005-0), International Journal of Game Theory, 55:34, 2026.   
+
 * Henrysson M., Bali Swain, R., Swain, A. Fuso Nerini, Francesco. [Sustainable Development Goals and wellbeing for resilient societies: shocks and recovery](https://www.nature.com/articles/s41599-024-03973-8?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241111&utm_content=10.1057/s41599-024-03973-8), Humanities and Social Sciences Communications, 11:1513, 2024.
 
 * Huang L., Bali Swain, R., Jeppesen, E., Cheng, H., Zhai, Panmao., Gu, Baojing., Barcelo, D., Lu, J., Wei, K., Luo, L., Wang, F., Wang, H., Zeng, J.,Guo, H. [Harnessing science, technology, and innovation to drive synergy between Climate Goals and the SDGs](https://www.cell.com/the-innovation/fulltext/S2666-6758(24)00131-0), The Innovation, 100693, September 02, 2024.
