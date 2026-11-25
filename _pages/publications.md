@@ -12,6 +12,8 @@ Journals
 ======
 * Bali Swain, R. [Artificial Intelligence and Climate Change: lessons for global governance](https://doi.org/10.1016/j.erss.2026.104937),Energy Research and Social Science, Volume 140, 104937, October 2026.
 
+* Zhou, X.,  M. Moinuddin, and  Bali Swain, R. [Conceptualising and Assessing Key SDG Indicators: Integrating SOCIETY Properties and Structural Representation](https://doi.org/10.1002/sd.71931), Sustainable Development, e71931.
+
 * Huang, L., Bali Swain, R., Chen, Y., Liu, J, Li,X., Sun, Z., Lu, S., Zuo, L., Wang, F., Wu, M., Wen, C., Wang, M. & Guo, H. [Data scarcity to strategic insight: monitoring global SDG progress using big earth data and AI](https://doi.org/10.1080/17538947.2026.2738295), International Journal of Digital Earth, 19:2, 2026.
                     
 * Gråd, E., Rapanos, T., Bali Swain, R., Ranganathan, S. [Long-term morality effects of behavioral interventions in networks](https://doi.org/10.1007/s00182-026-01005-0), International Journal of Game Theory, 55:34, 2026.   
